@@ -39,9 +39,9 @@ This project uses computer vision and machine learning to detect and count peopl
    pip install -r requirements.txt
    ```
    
-   Or install them individually:
+   For the API dependencies, install:
    ```
-   pip install ultralytics opencv-python numpy pandas matplotlib flask flask-cors
+   pip install flask flask-cors
    ```
 
 ## Setup
@@ -71,12 +71,16 @@ You can add more rooms by updating the `room_cameras` dictionary in the `api.py`
 
 ## Requirements
 
-- Python 3.8+
-- Ultralytics (YOLO)
-- OpenCV
-- NumPy
-- Pandas
-- Matplotlib
+The project requires the following libraries as specified in requirements.txt:
+```
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+```
+
+Additionally, the API requires:
 - Flask
 - Flask-CORS
 
