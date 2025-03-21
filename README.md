@@ -30,7 +30,7 @@ This project uses computer vision and machine learning to detect and count peopl
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/headcount-ml-project.git
+   git clone https:https://github.com/yasithrashan2003/Head-Count-Python.git
    cd headcount-ml-project
    ```
 
