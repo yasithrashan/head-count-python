@@ -1,0 +1,104 @@
+{
+  "classrooms": [
+    {
+      "id": "3LA",
+      "camera_url": 0,
+      "description": "Floor 3, Room LA"
+    },
+    {
+      "id": "3LB",
+      "camera_url": 1,
+      "description": "Floor 3, Room LB"
+    },
+    {
+      "id": "3LC",
+      "camera_url": 2,
+      "description": "Floor 3, Room LC"
+    },
+    {
+      "id": "3LD",
+      "camera_url": 3,
+      "description": "Floor 3, Room LD"
+    },
+    {
+      "id": "4LA",
+      "camera_url": 4,
+      "description": "Floor 4, Room LA"
+    },
+    {
+      "id": "4LB",
+      "camera_url": 5,
+      "description": "Floor 4, Room LB"
+    },
+    {
+      "id": "4LC",
+      "camera_url": 6,
+      "description": "Floor 4, Room LC"
+    },
+    {
+      "id": "4LD",
+      "camera_url": 7,
+      "description": "Floor 4, Room LD"
+    },
+    {
+      "id": "5LA",
+      "camera_url": 8,
+      "description": "Floor 5, Room LA"
+    },
+    {
+      "id": "5LB",
+      "camera_url": 9,
+      "description": "Floor 5, Room LB"
+    },
+    {
+      "id": "5LC",
+      "camera_url": 10,
+      "description": "Floor 5, Room LC"
+    },
+    {
+      "id": "5LD",
+      "camera_url": 11,
+      "description": "Floor 5, Room LD"
+    },
+    {
+      "id": "6LA",
+      "camera_url": 12,
+      "description": "Floor 6, Room LA"
+    },
+    {
+      "id": "6LB",
+      "camera_url": 13,
+      "description": "Floor 6, Room LB"
+    },
+    {
+      "id": "6LC",
+      "camera_url": 14,
+      "description": "Floor 6, Room LC"
+    },
+    {
+      "id": "6LD",
+      "camera_url": 15,
+      "description": "Floor 6, Room LD"
+    },
+    {
+      "id": "7LA",
+      "camera_url": 16,
+      "description": "Floor 7, Room LA"
+    },
+    {
+      "id": "7LB",
+      "camera_url": 17,
+      "description": "Floor 7, Room LB"
+    },
+    {
+      "id": "7LC",
+      "camera_url": 18,
+      "description": "Floor 7, Room LC"
+    },
+    {
+      "id": "7LD",
+      "camera_url": 19,
+      "description": "Floor 7, Room LD"
+    }
+  ]
+}
