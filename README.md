@@ -30,7 +30,7 @@ This project uses computer vision and machine learning to detect and count peopl
 
 1. Clone this repository:
    ```
-   git clone https:https://github.com/yasithrashan2003/Head-Count-Python.git
+   git clone https:https://github.com/yasithrashan/head-count-python.git
    cd headcount-ml-project
    ```
 
@@ -89,11 +89,3 @@ Additionally, the API requires:
 - The detection runs in a background thread that updates every 5 seconds.
 - The confidence threshold for detection is set to 0.5 by default.
 - Cross-origin requests are allowed from specific origins (localhost:5173, localhost:3000, yourdomain.com).
-
-## License
-
-[Your License Information]
-
-## Contact
-
-[Your Contact Information]
